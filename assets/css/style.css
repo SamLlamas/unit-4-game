@@ -1,4 +1,80 @@
 body{
-    height: 100%;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_outline.png");
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    line-height: 200%;
+    align-content: center;
+}
+
+#vaporheader{
+    font-size: 36px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#instructions{
+    background: grey;
+    margin: 10px auto;
+    padding: 30px;
+    width: 960px;
+    height: auto;
+    font-size: 22px;
     
 }
+
+.generalHeader{
+    font-family: 'Slabo 27px', serif;
+    font-size: 28px;
+    text-align: left;
+
+}
+
+#RandomNumHolder{
+    display: inline-block;
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_pentagon.png"); 
+    color: black;
+    height: 100px;
+    width: 480px;
+    margin: 10px auto;
+    vertical-align: top;
+    padding: 10px;
+    
+}
+
+#score{
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_pentagon.png");
+    color: black;
+    height: 100px;
+    width: 480px;
+    display: inline-block;
+    margin: 10px auto;
+    text-align: left;
+    padding: 10px;
+    font-size: 30px;   
+
+
+}
+
+#goal{
+    font-family: 'Slabo 27px', serif;
+    font-size: 28px;
+    text-align: left;
+}
+
+#guess{
+    font-size: 36px;
+}
+
+ .holder{
+    text-align: center;
+    width: auto;
+ }
+
+ img{
+     height: 200px;
+     width: 200px;
+ }
+ #crystals{
+     text-align: center;
+     vertical-align: top;
+ }
