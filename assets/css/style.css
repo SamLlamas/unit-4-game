@@ -1,6 +1,6 @@
 body{
     background: url("https://www.toptal.com/designers/subtlepatterns/patterns/congruent_outline.png");
-    color: white;
+    color: black;
     font-family: 'Roboto', sans-serif;
     line-height: 200%;
     align-content: center;
@@ -10,15 +10,17 @@ body{
     font-size: 36px;
     text-align: center;
     margin: 20px auto;
+    color: white;
 }
 
 #instructions{
-    background: grey;
+    background:url("https://www.toptal.com/designers/subtlepatterns/patterns/intersection.png");
     margin: 10px auto;
     padding: 30px;
     width: 960px;
     height: auto;
     font-size: 22px;
+
     
 }
 
@@ -77,4 +79,20 @@ body{
  #crystals{
      text-align: center;
      vertical-align: top;
+ }
+
+ #scoreboard{
+     background:url("https://www.toptal.com/designers/subtlepatterns/patterns/whirlpool.png");
+     width: 960px;
+     height: auto;
+     margin: 10px auto;
+     margin-bottom: 30px;
+     text-align: center;
+     padding: 30px;
+     font-size: 48px;
+ }
+
+ #myscore{
+     font-size: 72px;
+
  }
